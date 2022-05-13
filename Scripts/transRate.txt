@@ -1,0 +1,4 @@
+
+#transrate command used to check the quality of transcriptome assembly
+
+$ transrate --assembly /home/ashwi/genome_analysis/data/analyses/RNA_assembly/trinity_out/Trinity-GG.fasta
